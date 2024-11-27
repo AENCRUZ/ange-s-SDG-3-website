@@ -9,7 +9,6 @@ Welcome to my portfolio website! This site showcases my work as a computer scien
 2. [Navigating the Portfolio](#navigating-the-portfolio)
 3. [Chosen SDG: Climate Action](#chosen-sdg-climate-action)
 4. [Dependencies](#dependencies)
-5. [How to Run the Project Locally](#how-to-run-the-project-locally)
 
 ## About the Portfolio
 This portfolio features information about me, including:
